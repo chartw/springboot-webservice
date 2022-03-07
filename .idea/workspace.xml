@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c04095-70bc-4c12-8689-06ffb825b26a" name="Changes" comment="gitignore 설정">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-    </list>
+    <list default="true" id="b3c04095-70bc-4c12-8689-06ffb825b26a" name="Changes" comment="gitignore 설정1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,8 +112,30 @@
       <updated>1646666444573</updated>
       <workItem from="1646666445745" duration="307000" />
       <workItem from="1646666839780" duration="444000" />
-      <workItem from="1646667316033" duration="404000" />
+      <workItem from="1646667316033" duration="704000" />
     </task>
+    <task id="LOCAL-00001" summary="gitignore 설정">
+      <created>1646667743509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646667743509</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore 설정1">
+      <created>1646667928115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646667928115</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore 설정1">
+      <created>1646667988696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646667988696</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +152,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -152,6 +166,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore 설정" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore 설정" />
+    <MESSAGE value="gitignore 설정1" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore 설정1" />
   </component>
 </project>
