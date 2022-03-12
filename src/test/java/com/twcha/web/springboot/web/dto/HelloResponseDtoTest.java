@@ -1,4 +1,4 @@
-package com.twcha.web.springboot.dto;
+package com.twcha.web.springboot.web.dto;
 
 import com.twcha.web.springboot.web.dto.HelloResponseDto;
 import org.junit.Test;
